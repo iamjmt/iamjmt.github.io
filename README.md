@@ -4,6 +4,6 @@ Hello everyone! 👋 I'm excited to share that I've recently embarked on my jour
 
 Without further ado, I invite you to explore the culmination of my coding endeavors. 
 
-## Click here to see [live view](https://iamjmt.github.io/) of my website named NeonNexus. 
+## Click here to see the [live view](https://iamjmt.github.io/) of my website named NeonNexus. 
 
 Your feedback and insights are highly appreciated as I continue to learn and grow in the vast world of web development. 
